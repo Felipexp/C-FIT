@@ -42,7 +42,7 @@ namespace ConsoleApp1
 
 			public void Descer()
 			{
-				if (AndarAtual >= 0)
+				if (AndarAtual > 0)
 				{
 					AndarAtual--;
 				}

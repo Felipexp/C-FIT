@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{9E670AEE-55F1-4906-B8B3-C3CB726EFB45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elevador", "ConsoleApp1\Elevador.csproj", "{9E670AEE-55F1-4906-B8B3-C3CB726EFB45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Videogame", "Videogame\Videogame.csproj", "{A83C88FE-26BF-4345-AB8B-E3D976469631}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Videogame", "Videogame\Videogame.csproj", "{A83C88FE-26BF-4345-AB8B-E3D976469631}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueProduto", "EstoqueProduto\EstoqueProduto.csproj", "{189CED15-1C7D-482D-9FC6-60BD24D2FDB5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{3899511B-6329-431B-A582-D4034DE0A1DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstoqueProduto", "EstoqueProduto\EstoqueProduto.csproj", "{189CED15-1C7D-482D-9FC6-60BD24D2FDB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		{189CED15-1C7D-482D-9FC6-60BD24D2FDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{189CED15-1C7D-482D-9FC6-60BD24D2FDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{189CED15-1C7D-482D-9FC6-60BD24D2FDB5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3899511B-6329-431B-A582-D4034DE0A1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3899511B-6329-431B-A582-D4034DE0A1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3899511B-6329-431B-A582-D4034DE0A1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3899511B-6329-431B-A582-D4034DE0A1DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
